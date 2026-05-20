@@ -1,11 +1,7 @@
 ## Contenido del repositorio
-Una pagina web de e-commerce con diferentes secciones :
-- Inicio
-- Productos
-- Reseñas
-- Contacto
-
-Incluir un archivo README.md: que explique brevemente el propósito de la página.
+akjshdkjashdkjashd
+asdasdadasd
+Incluir un archivo README.md: que explique brevemente el propósito de asdasdasdla página.
 
 Nombre del Repositorio: 2026_TP2_Nº[XX]
 
