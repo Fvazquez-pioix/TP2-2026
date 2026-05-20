@@ -1,1 +1,1 @@
-# TP2-2026
+Proyecto de Pagina Web para ElDan Electronica.
