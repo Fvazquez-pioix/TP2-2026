@@ -1,9 +1,7 @@
-# Contenido del repositorio
-Una pagina web de e-commerce con diferentes secciones :
+kjhaxsdgfhoñgdfañdsgfñhsdgfldfdflañges :
 - Inicio
 - Productos
-- Reseñas
-- Contacto
+
 
 Incluir un archivo README.md: que explique brevemente el propósito de la página.
 
