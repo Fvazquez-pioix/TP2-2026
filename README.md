@@ -36,7 +36,7 @@ El proyecto debe contar con un archivo CSS externo que incluya:
 - Multimedia: deberá incluir archivos multimedia (imagenes, video o iframe) correctamente integrado en la página.
 - Lista de navegación: Implementar una lista desordenada con enlaces que simulen una navegación interna (Inicio, Productos, Contacto, etc.).
 
-#  Formato de Entrega:  
+#  Formato de Trabajo y Entrega:  
 
 Repositorio de GitHub
 
